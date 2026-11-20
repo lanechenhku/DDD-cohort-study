@@ -1,0 +1,1 @@
+attrition_LR_MRIblock chi2=12.66 df=4 p=0.0131 n=2793

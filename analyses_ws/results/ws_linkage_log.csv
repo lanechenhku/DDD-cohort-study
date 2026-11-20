@@ -1,0 +1,6 @@
+,0
+linked_any,2007
+with_lumbar_T2_record,1964
+age_diff_median_days,12.9
+age_diff_le_0.1y,1940
+agegrp_n,"{Interval(0, 35, closed='right'): 214, Interval(35, 45, closed='right'): 254, Interval(45, 55, closed='right'): 893, Interval(55, 65, closed='right'): 609, Interval(65, 100, closed='right'): 37}"

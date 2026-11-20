@@ -1,0 +1,11 @@
+phenotype,source,cases_controls,ancestry,eaf_T,beta_logOR,se,p
+"Chronic back pain","Zorina-Lichtenwalter et al. 2023, GCST90129430","119,216 / 132,641",EUR,0.31,0.00471245,0.0061445,0.443
+"Back pain","Sakaue et al. 2021, GCST90018797","22,413 / 445,856",EUR,0.23,0.0023,0.011,0.836
+"Back pain","Sakaue et al. 2021 (BBJ), GCST90018577","1,732 / 176,994",EAS,0.082,0.0501,0.0628,0.425
+"Sciatica","Packer et al. 2025, GCST90859374","10,600 / 181,898",EUR,0.31,0.0235,0.0153,0.125
+"Other intervertebral disc disorders","FinnGen R12 M13_INTERVERTEB","51,683 / 353,224",FIN,0.21,-0.000927,0.00849,0.913
+"Dorsopathies","FinnGen R12 M13_DORSOPATHY","147,124 / 353,224",FIN,0.21,-0.00155,0.00559,0.782
+"Spondylopathies","FinnGen R12 M13_SPONDYLOPATHY","52,465 / 353,224",FIN,0.21,0.00127,0.00856,0.882
+"Spondylosis","FinnGen R12 M13_SPONDYLOSIS","27,369 / 353,224",FIN,0.21,-0.00265,0.0113,0.815
+"Low back pain","FinnGen R12 M13_LOWBACKPAIN","42,521 / 353,224",FIN,0.21,-0.0045,0.00916,0.623
+"Sciatica with lumbago","FinnGen R12 M13_SCIATICA","26,541 / 353,224",FIN,0.21,0.00623,0.0114,0.585

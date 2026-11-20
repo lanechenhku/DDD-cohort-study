@@ -1,0 +1,416 @@
+src,phenocode,phenostring,cat,beta,pval,cases
+FinnGen R12,F5_ANAPER,Anankastic personality disorder,V Mental and behavioural disorders,-0.189452,6.813809697255636e-05,1468.0
+FinnGen R12,E4_HYTHY_AI_STRICT,"Hypothyroidism, strict autoimmune","IV Endocrine, nutritional and metabolic diseases",-0.0339054,6.938570414712719e-05,54752.0
+FinnGen R12,HYPOTHY_REIMB,"Hypothyroidism, drug reimbursement","IV Endocrine, nutritional and metabolic diseases",-0.0673933,0.00015928687791204375,16150.0
+FinnGen R12,E4_NUTRI_DEF_NAS,Other specified/unspecified nutritional deficiencies,"IV Endocrine, nutritional and metabolic diseases",0.346317,0.0004260102023753078,258.0
+FinnGen R12,VOCALCORDDYS,Vocal cord dysfunction,COPD and related endpoints,-0.0747697,0.0007869914243757465,6926.0
+FinnGen R12,C3_STOMACH_ADENO_EXALLC,"Adenocarcinoma and papillary adenocarcinoma of stomach, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",-0.18477,0.0010879276133832897,1023.0
+BioBank Japan,PAD,Peripheral arterial disease,ICD10 I,-0.13,0.0012,4112.0
+FinnGen R12,E4_THYROID,Disorders of the thyroid gland,"IV Endocrine, nutritional and metabolic diseases",-0.0234329,0.0012543247738650658,76140.0
+FinnGen R12,J10_CHRONSINUSITIS,Chronic sinusitis,X Diseases of the respiratory system,0.0387678,0.001467337443486692,22099.0
+BioBank Japan,Polycystic_Kidney_Disease,Polycystic kidney disease,ICD10 Q,-0.36,0.0019,510.0
+FinnGen R12,CARDIAC_ARRHYTM,Cardiac arrhythmias,Comorbidities of COPD,-0.0234404,0.002408074950157889,92926.0
+FinnGen R12,CD2_BENIGN_LIPO_SKIN_LIMBS,Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs,II Neoplasms from hospital discharges,0.0962078,0.0024921260221397834,2969.0
+FinnGen R12,Q17_OTHER_CONGEN_MALFO_BRAIN,Other congenital malformations of brain,"XVII Congenital malformations, deformations and chromosomal abnormalities",-0.416368,0.002655155739948523,168.0
+FinnGen R12,F5_DEPRESSION_PSYCHOTIC,Psychotic depression,V Mental and behavioural disorders,0.105207,0.0029579443565815903,2622.0
+FinnGen R12,C3_URETER_EXALLC,"Malignant neoplasm of ureter, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",-0.335681,0.0029992315780517963,256.0
+FinnGen R12,VD_MX,Vascular dementia (mixed),Neurological endpoints,-0.232565,0.0033603150728158415,531.0
+FinnGen R12,K11_DISOESINOTH,Disorders of oesophagus in diseases classified elsewhere,XI Diseases of the digestive system,0.183538,0.004026984889476867,691.0
+FinnGen R12,L12_FOLLICULARCYST,Follicular cysts of skin and subcutaneous tissue,XII Diseases of the skin and subcutaneous tissue,0.0572873,0.00429180518394602,7729.0
+FinnGen R12,E4_PCOS_CONCORTIUM,"Polycystic ovarian syndrome, consortium definition","IV Endocrine, nutritional and metabolic diseases",0.0264361,0.004487867228143688,42630.0
+FinnGen R12,CD2_PRIMARY_LYMPHOID_HEMATOPOIETIC_NAS_EXALLC,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue (controls excluding all cancers)",II Neoplasms from hospital discharges,-0.28727,0.00532905251493976,303.0
+FinnGen R12,M13_MUSCLEATROPH,"Muscle wasting and atrophy, not elsewhere classified",XIII Diseases of the musculoskeletal system and connective tissue,0.299225,0.006017415494767233,210.0
+FinnGen R12,AB1_ANOGENITAL_HERPES_SIMPLEX,Anogenital herpesviral [herpes simplex] infection,I Certain infectious and parasitic diseases,0.0946467,0.006127594250517765,2510.0
+FinnGen R12,L12_ACNE_CONGLOBLATA,Acne conglobata,XII Diseases of the skin and subcutaneous tissue,0.304125,0.006861988722988941,196.0
+FinnGen R12,M13_TEMPARTERIT,Temporal arteritis,XIII Diseases of the musculoskeletal system and connective tissue,0.130146,0.007690950213364398,1225.0
+FinnGen R12,T1D_STRICT2,"Type 1 diabetes, strict definition, subgroup 2",Diabetes endpoints,-0.467431,0.0078058463788955494,100.0
+FinnGen R12,H7_CONJUNAS,Other specified and unspecified disorders of conjunctiva,VII Diseases of the eye and adnexa,0.23864,0.008593894145529113,322.0
+FinnGen R12,N14_NEUROMUSCDYSBLADD,Neuromuscular dysfunction of bladder,XIV Diseases of the genitourinary system,-0.0784466,0.009244852788265357,3550.0
+FinnGen R12,O15_PUERP_COMPL_NAS,"Complications of the puerperium, not elsewhere classified","XV Pregnancy, childbirth and the puerperium",0.112138,0.01016131699650947,1576.0
+FinnGen R12,E4_THYROIDNASOTH,"Disorder of thyroid, unspecified","IV Endocrine, nutritional and metabolic diseases",-0.217155,0.010377673430708556,446.0
+FinnGen R12,H7_CHALAZION,Chalazion,VII Diseases of the eye and adnexa,0.0662827,0.010380780307583897,4708.0
+FinnGen R12,WEIGHT_IRN,"Weight, inverse-rank normalized",Quantitative endpoints,-0.00647851,0.010829041049724769,370087.0
+FinnGen R12,M13_ARTHROSIS_POLY,Polyarthrosis,XIII Diseases of the musculoskeletal system and connective tissue,-0.049798,0.011545958708240142,8758.0
+FinnGen R12,M13_MUSCONTRAC,Contracture of muscle,XIII Diseases of the musculoskeletal system and connective tissue,-0.372476,0.011946481090240083,142.0
+BioBank Japan,Eosino,Eosinophil count,Blood cell,0.02,0.012,
+FinnGen R12,H7_LIDLACRIMALORBIT,"Disorders of eyelid, lacrimal system and orbit",VII Diseases of the eye and adnexa,0.0217538,0.012675059304442533,46418.0
+FinnGen R12,EVER_SMOKER,Ever smoker,"Miscellaneous, not yet classified endpoints",-0.0169909,0.012706326186557372,145409.0
+BioBank Japan,Lym,Lymphocyte count,Blood cell,0.02,0.013,
+FinnGen R12,D3_BLOODNAS,Other and unspecified diseases of blood and blood-forming organs,III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,-0.148295,0.013143771486965628,864.0
+FinnGen R12,L12_BULLOTH,Other bullous disorders,XII Diseases of the skin and subcutaneous tissue,-0.140582,0.01333275811060887,967.0
+FinnGen R12,K11_CHOLECYSTECTOMY,Cholecystectomy,XI Diseases of the digestive system,-0.0240034,0.013445594208591408,36556.0
+FinnGen R12,M13_NEURALGIA,"Neuralgia and neuritis, unspecified",XIII Diseases of the musculoskeletal system and connective tissue,0.0974216,0.014683175847986868,1972.0
+FinnGen R12,K11_HERNIA,Hernia,XI Diseases of the digestive system,0.0179105,0.014709570767969771,73682.0
+FinnGen R12,F5_PSYTRANS,Acute and transient psychotic disorders,V Mental and behavioural disorders,-0.0718369,0.015131430937809113,5003.0
+FinnGen R12,RX_CROHN_1STLINE,First line medication for Crohn's disease,Drug purchase endpoints,0.0150202,0.015574352499398885,106320.0
+FinnGen R12,KELA_DIAB_INSUL_EXMORE,"Diabetes, insulin treatment (Kela reimbursement) (more control exclusions)",Diabetes endpoints,-0.0178972,0.016017694269260065,77557.0
+FinnGen R12,Q17_EPIDERMOL_BULLOSA,Epidermolysis bullosa,"XVII Congenital malformations, deformations and chromosomal abnormalities",0.450762,0.01620540913276185,53.0
+FinnGen R12,F5_OTHERSUB,Mental and behavioural disorders due to multiple drug use and use of multiple drugs and use of other psychoactive substances,V Mental and behavioural disorders,0.0818493,0.016994954257413274,2866.0
+FinnGen R12,ALCOPANCACU,Alcohol-induced acute pancreatitis,Alcohol related diseases,-0.117661,0.017795901775756618,1286.0
+FinnGen R12,E4_AMINO,Other disorders of amino-acid metabolism,"IV Endocrine, nutritional and metabolic diseases",0.33136,0.017846785339605046,163.0
+FinnGen R12,L12_DYSHIDROSIS,Dyshidrosis [pompholyx],XII Diseases of the skin and subcutaneous tissue,0.172254,0.017869812678141535,572.0
+FinnGen R12,N14_CHRONTUBULOINTNEPHRITIS,Chronic tubulo-interstitial nephritis,XIV Diseases of the genitourinary system,-0.108447,0.017957670559725664,1494.0
+FinnGen R12,E4_HYTHYPOSTINF,Postinfectious hypothyroidism,"IV Endocrine, nutritional and metabolic diseases",-0.287645,0.01907919294574417,199.0
+FinnGen R12,Q17_CONGEN_MALFO_OESOPHAGUS,Congenital malformations of oesophagus,"XVII Congenital malformations, deformations and chromosomal abnormalities",0.32504,0.019238003526110447,161.0
+FinnGen R12,CMV_HEPATITIS,Cytomegaloviral hepatitis,I Certain infectious and parasitic diseases,0.422767,0.019711060911135288,92.0
+FinnGen R12,AB1_ASPERGILLOSIS,Aspergillosis,I Certain infectious and parasitic diseases,0.252314,0.019793837475004763,260.0
+FinnGen R12,J10_ASTHMA_MAIN_EXMORE,Asthma (only as main-diagnosis) (more control exclusions),X Diseases of the respiratory system,0.0207755,0.02015811878385241,47300.0
+FinnGen R12,N14_MENSIRREG,Irregular menses,XIV Diseases of the genitourinary system,0.0276413,0.020433840542585496,24344.0
+FinnGen R12,J10_BRONCH,"Bronchitis, not specified as acute or chronic",X Diseases of the respiratory system,0.0667524,0.021506512954384664,3729.0
+FinnGen R12,G6_DISOTHUNS,Disorders of other and unspecified cranial nerves,VI Diseases of the nervous system,-0.290648,0.02199429268244175,190.0
+BioBank Japan,BrC_Meta_Sato2023,"Breast cancer (BBJ, UKB, FinnGen, BCAC)",ICD10 C,-0.013,0.022,163834.0
+BioBank Japan,Head_Injury,Head injury,ICD10 S,0.12,0.022,2440.0
+FinnGen R12,CD2_BENIGN_EPIDIDYMIS,Benign neoplasm: Epididymis,II Neoplasms from hospital discharges,0.38533,0.0223872113856834,109.0
+FinnGen R12,C3_CERVIX_SQUAM_EXALLC,"Squamous cell neoplasms and carcinoma of cervix, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",0.269593,0.02262872059095559,222.0
+FinnGen R12,CD2_INSITU_VAGINA_EXALLC,Carcinoma in situ of vagina (controls excluding all cancers),II Neoplasms from hospital discharges,-0.336235,0.023363612791356448,141.0
+FinnGen R12,I9_OTHANEUR,Other aneurysm,IX Diseases of the circulatory system,-0.0895273,0.023889111638836762,1998.0
+FinnGen R12,M13_CALCBURS,Calcium deposit in bursa,XIII Diseases of the musculoskeletal system and connective tissue,0.455322,0.024545393562567658,74.0
+BioBank Japan,Jomon,Jomon proportion,Other,0.026,0.025,
+FinnGen R12,CD2_BENIGN_RIBS_STERNUM_CLAVICLE,"Benign neoplasm: Ribs, sternum and clavicle",II Neoplasms from hospital discharges,-0.431919,0.02523538878441633,81.0
+FinnGen R12,C3_STOMACH_EXALLC,"Malignant neoplasm of stomach, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",-0.0828549,0.025643068943546503,2296.0
+FinnGen R12,AUTOIMMUNE,Autoimmune diseases,Diseases marked as autimmune origin,-0.0130629,0.025702774143941672,128075.0
+BioBank Japan,PrC,Prostate cancer,ICD10 C,-0.084,0.026,5672.0
+FinnGen R12,M13_CALCIOSSIMUSCLE,Calcification and ossification of muscle,XIII Diseases of the musculoskeletal system and connective tissue,0.420962,0.02616857054474286,86.0
+FinnGen R12,F5_DELIRIUM,"Delirium, not induced by alcohol and other psychoactive substances",V Mental and behavioural disorders,-0.060105,0.02643260706574553,4381.0
+FinnGen R12,O15_COMPLIC_LAB_DELIV,Complications of labour and delivery,"XV Pregnancy, childbirth and the puerperium",0.0176797,0.0266311548583435,67139.0
+FinnGen R12,Q17_CONGEN_MALFO_NOSE,Congenital malformations of nose,"XVII Congenital malformations, deformations and chromosomal abnormalities",0.410801,0.026642194836062883,56.0
+FinnGen R12,K11_MAXIL_CANINE_FAILED_ERUPT_OBSTRUCTION_TOOTH,Impacted maxillary canine,XI Diseases of the digestive system,-0.221184,0.02671406633156975,311.0
+FinnGen R12,H7_CONVERSTRAB,Convergent concomitant strabismus,VII Diseases of the eye and adnexa,0.080377,0.027026512003826945,2382.0
+FinnGen R12,INCREASEDMUSCLETONE,Increased muscle tone,"Miscellaneous, not yet classified endpoints",-0.252433,0.02709193344297384,239.0
+FinnGen R12,Q17_LVOTO_NARROW,"Left ventricular outflow tract obstruction, narrow definition","XVII Congenital malformations, deformations and chromosomal abnormalities",0.0934841,0.027156887926180047,1761.0
+FinnGen R12,G6_ICNEUROP,Intercostal neuropathy,VI Diseases of the nervous system,0.236313,0.027163767212335273,270.0
+FinnGen R12,H7_VITRCRYSTAL,Crystalline deposits in vitreous body,VII Diseases of the eye and adnexa,0.229146,0.027165018178848668,291.0
+FinnGen R12,M13_GIANTCELL,Giant cell arteritis,XIII Diseases of the musculoskeletal system and connective tissue,0.104752,0.02734135287189524,1387.0
+FinnGen R12,CURRENT_SMOKER,Current smoker,"Miscellaneous, not yet classified endpoints",-0.0183208,0.027922223562528388,77563.0
+FinnGen R12,L12_CELLULITIS,Cellulitis,XII Diseases of the skin and subcutaneous tissue,-0.0401074,0.028776634451284366,9428.0
+FinnGen R12,I9_AF,Atrial fibrillation and flutter,IX Diseases of the circulatory system,-0.0234164,0.02892410969956211,63532.0
+FinnGen R12,Q17_CLEFT_LIP,Cleft lip,"XVII Congenital malformations, deformations and chromosomal abnormalities",-0.365742,0.028980775324627398,110.0
+BioBank Japan,RA_MultiAncestry_Ishigaki2022,Rheumatoid arthritis (seropositive + seronegative; multi-ancestry meta-analysis; Ishigaki2022),ICD10 M,-0.032,0.029,35871.0
+FinnGen R12,C3_BLADDER_EXALLC,"Malignant neoplasm of bladder, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",-0.0568328,0.029681783978430652,4852.0
+FinnGen R12,L12_PYODERMA,Pyoderma,XII Diseases of the skin and subcutaneous tissue,-0.145422,0.02984351682337368,703.0
+BioBank Japan,Baso,Basophil count,Blood cell,0.018,0.03,
+BioBank Japan,ATC_N02BE,Anilides,ATC N,0.085,0.03,4421.0
+FinnGen R12,M13_RHEUMA,Rheumatoid arthritis,XIII Diseases of the musculoskeletal system and connective tissue,0.0315392,0.030285866245569486,16314.0
+FinnGen R12,G6_MYONEUOTHUNS,Other and unspecified myoneural disorders,VI Diseases of the nervous system,0.340526,0.030528818715562525,124.0
+FinnGen R12,O15_DELIV_FORCEP_VAC,Single delivery by forceps and vacuum extractor,"XV Pregnancy, childbirth and the puerperium",0.0388202,0.030566801734190543,11333.0
+FinnGen R12,C3_LIP_EXALLC,"Malignant neoplasm of lip, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",0.19752,0.03093855315451652,380.0
+FinnGen R12,O15_MATERN_CARE_CERVICAL_INCOMPETENCE,Maternal care for cervical incompetence,"XV Pregnancy, childbirth and the puerperium",-0.100744,0.0313899049037842,1428.0
+FinnGen R12,F5_PSYCHOTH,Other and unspecified nonorganic psychotic disorders,V Mental and behavioural disorders,-0.0503667,0.032144005965243826,8976.0
+FinnGen R12,M13_ENTESOPATHYLOWNAS,"Other/unspecified enthesopathies of lower limb, excluding foot",XIII Diseases of the musculoskeletal system and connective tissue,0.069765,0.032195116429414763,2961.0
+FinnGen R12,M13_HYPERANG,Hypersensitivity angiitis,XIII Diseases of the musculoskeletal system and connective tissue,-0.286871,0.032273792318927484,175.0
+FinnGen R12,KRA_PSY_PERSON_EXMORE,Personality disorders (more control exclusions),Psychiatric endpoints from Katri Räikkönen,-0.0374621,0.03245861614635713,13045.0
+FinnGen R12,J10_PULMEOS,"Pulmonary eosinophilia, not elsewhere classified",X Diseases of the respiratory system,-0.184299,0.03319785318748612,414.0
+FinnGen R12,T2D,"Type 2 diabetes, definitions combined",Diabetes endpoints,-0.0154426,0.0336356635748362,82878.0
+FinnGen R12,HEIGHT_IRN,"Height, inverse-rank normalized",Quantitative endpoints,-0.00409514,0.03446910444632458,364629.0
+FinnGen R12,T2D_WIDE,"Type 2 diabetes, wide definition",Diabetes endpoints,-0.0182894,0.034846567088801135,55418.0
+FinnGen R12,O15_PLAC_DISORD,Placental disorders,"XV Pregnancy, childbirth and the puerperium",-0.204423,0.03508164907867199,333.0
+FinnGen R12,H7_CONJUNCTIVITISCHRON,Chronic conjunctivitis,VII Diseases of the eye and adnexa,0.113168,0.035324010078105955,1087.0
+FinnGen R12,RX_STATIN,Statin medication,IX Diseases of the circulatory system,-0.0128447,0.035425827208233424,183578.0
+FinnGen R12,L12_CORNSANDCALLOS,Corns and callosities,XII Diseases of the skin and subcutaneous tissue,-0.0736698,0.03547153642143547,2582.0
+FinnGen R12,J10_LOWCHRON,Chronic lower respiratory diseases,X Diseases of the respiratory system,0.0137616,0.03560983816883842,91278.0
+FinnGen R12,L12_HYPERTICHNAS,Other hypertrichosis,XII Diseases of the skin and subcutaneous tissue,0.343994,0.035982389469213186,116.0
+FinnGen R12,D3_BLOODOTHER,"Other diseases of blood and blood-forming organs, wide",III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,-0.0390518,0.0360669983519624,9124.0
+FinnGen R12,K11_GASTRODUOULC,Gastroduodenal ulcer,XI Diseases of the digestive system,-0.034484,0.036676678638491694,12074.0
+FinnGen R12,AB1_INTESTINAL_INFECTIONS,Intestinal infectious diseases,I Certain infectious and parasitic diseases,0.0165311,0.037066365169754756,56056.0
+FinnGen R12,G6_TRINEU,Trigeminal neuralgia,VI Diseases of the nervous system,0.0778831,0.03776069682108788,2226.0
+FinnGen R12,M13_DORSOPATHYNAS,Other specified/unspecified dorsopathies,XIII Diseases of the musculoskeletal system and connective tissue,0.0995753,0.038214660002394624,1360.0
+FinnGen R12,Q17_OTHER_CONGEN_MALFO_RESPI_SYSTEM,Other congenital malformations of respiratory system,"XVII Congenital malformations, deformations and chromosomal abnormalities",0.474508,0.03828423734537124,59.0
+FinnGen R12,L12_INFECT_SKIN,Infections of the skin and subcutaneous tissue,XII Diseases of the skin and subcutaneous tissue,-0.0218432,0.03865093461324986,29841.0
+FinnGen R12,AB1_CANDIDIASIS,Candidiasis,I Certain infectious and parasitic diseases,0.0501281,0.03869367682073357,5341.0
+FinnGen R12,M13_POLYMYO,Polymyositis,XIII Diseases of the musculoskeletal system and connective tissue,-0.214663,0.03892691618531709,287.0
+FinnGen R12,L12_PAPULOSQUONAS,Other and unspecified papulosquamous disorders,XII Diseases of the skin and subcutaneous tissue,0.257882,0.03942302995422327,201.0
+FinnGen R12,CD2_BENIGN_LIPO_INTRATHO,Benign lipomatous neoplasm of  of intra-abdominal organs,II Neoplasms from hospital discharges,-0.35779,0.03953757238257948,103.0
+BioBank Japan,TC,Total cholesterol,Metabolic,-0.013,0.04,
+FinnGen R12,K11_DISTAL_BITE,Distal bite,XI Diseases of the digestive system,-0.0964062,0.04001381869568692,1446.0
+FinnGen R12,AB1_PARASITIC_NOS,Unspecified parasitic disease,I Certain infectious and parasitic diseases,0.214285,0.04016243169986052,286.0
+FinnGen R12,J10_EMPHYSEMA,Emphysema,X Diseases of the respiratory system,-0.069887,0.04062655526891997,2711.0
+FinnGen R12,M13_KNUCKLEPADS,Knuckle pads,XIII Diseases of the musculoskeletal system and connective tissue,-0.484294,0.04063310402371101,54.0
+FinnGen R12,M13_KNEEDERANGEMENTS,Internal derangement of knee,XIII Diseases of the musculoskeletal system and connective tissue,0.0262586,0.040987365071260835,20142.0
+BioBank Japan,TBil,Total Bilirubin,Liver-related,-0.014,0.041,
+FinnGen R12,N14_HYDROCELE,Hydrocele,XIV Diseases of the genitourinary system,0.0514844,0.04112538720879414,5108.0
+FinnGen R12,I9_CONDUCTIO,Conduction disorders,IX Diseases of the circulatory system,-0.0317685,0.04141903726221007,14027.0
+FinnGen R12,KRA_PSY_CODUCTEMOT_EXMORE,Mixed disorders of conduct and emotions (more control exclusions),Psychiatric endpoints from Katri Räikkönen,-0.128285,0.04201264264164722,933.0
+FinnGen R12,CD2_BENIGN_MELANOCYTIC,Melanocytic naevi,II Neoplasms from hospital discharges,-0.0314648,0.04222697780731519,13357.0
+FinnGen R12,AB1_GASTROENTERITIS_NOS,Diarrhoea and gastroenteritis of presumed infectious origin,I Certain infectious and parasitic diseases,0.0186239,0.04369180633852881,39997.0
+FinnGen R12,I9_CEREBAMY,Cerebral amyloid angiopathy,IX Diseases of the circulatory system,-0.324307,0.043829851578464425,119.0
+FinnGen R12,AB1_VIRAL_NOS,"Other viral diseases, not elsewhere classified",I Certain infectious and parasitic diseases,0.0392463,0.044501023536975735,8325.0
+BioBank Japan,HbA1c,HbA1c,Metabolic,0.015,0.045,
+FinnGen R12,C3_PENIS_EXALLC,"Malignant neoplasm of penis, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",0.241928,0.04543703670732291,210.0
+FinnGen R12,N14_VULVAL_DYSPLASIA_NOS,Dysplastic lesion of the vulva of unknown severity,XIV Diseases of the genitourinary system,-0.488421,0.04561314314867179,52.0
+FinnGen R12,DERMATOPOLY_FG,Dermatopolymyositis (FG),Rheuma endpoints,-0.157857,0.04615300680791285,500.0
+FinnGen R12,CD2_BENIGN_NOS,Benign neoplasm: Other/unspecified site,II Neoplasms from hospital discharges,0.149891,0.04623916682383078,551.0
+BioBank Japan,ATC_N02A,Opioids,ATC N,-0.087,0.047,3566.0
+FinnGen R12,K11_PULC,Peptic ulcer,XI Diseases of the digestive system,-0.185472,0.047206304126359046,354.0
+FinnGen R12,O15_BREAST_LACT_OTHER_DIS,Other disorders of breast and lactation associated with childbirth,"XV Pregnancy, childbirth and the puerperium",0.137947,0.047410004877631334,652.0
+FinnGen R12,F5_SUBSNOALCO,"Substance use, excluding alcohol",V Mental and behavioural disorders,0.0384511,0.04742638254136436,8840.0
+FinnGen R12,H7_LACRIMALSYSTEM,Disorders of lacrimal system,VII Diseases of the eye and adnexa,0.025984,0.047575131787886964,19195.0
+FinnGen R12,H7_CHORDETACH,Choroidal detachment,VII Diseases of the eye and adnexa,0.385027,0.04831366681946379,79.0
+FinnGen R12,F5_COCAINE,Mental and behavioural disorders due to cocaine,V Mental and behavioural disorders,-0.466922,0.04841389232969563,54.0
+FinnGen R12,AB1_OTHER_CONDITIONS,Human immunodeficiency virus [HIV] disease resulting in other conditions,I Certain infectious and parasitic diseases,0.152684,0.048546731999053225,530.0
+BioBank Japan,Subarachnoid_Hemorrhage,Subarachnoid hemorrhage,ICD10 I,-0.15,0.049,1203.0
+FinnGen R12,H7_GLAUCSECDRUG,Glaucoma secondary to drugs,VII Diseases of the eye and adnexa,-0.331162,0.0496112306243478,109.0
+FinnGen R12,O15_LABOUR_INTRAPART_HAEMORRH,"Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified","XV Pregnancy, childbirth and the puerperium",0.0807906,0.049632939848013674,1896.0
+FinnGen R12,BMI_IRN,"Body-mass index, inverse-rank normalized",Quantitative endpoints,-0.00534734,0.049688970643943904,362327.0
+FinnGen R12,C3_HYPOPHARYNX_EXALLC,"Malignant neoplasm of hypopharynx, excluding all cancers (controls excluding all cancers)","II Neoplasms, from cancer register",-0.226389,0.04973819263328296,233.0
+FinnGen R12,Q17_OTHER_CONGEN_MALFO_DIGES_SYSTEM1,Other congenital malformations of the digestive system,"XVII Congenital malformations, deformations and chromosomal abnormalities",-0.0857175,0.049759957413858316,1657.0
+BioBank Japan,Epilepsy,Epilepsy,ICD10 G,-0.1,0.053,2466.0
+BioBank Japan,Acute_Pancreatitis,Acute pancreatitis,ICD10 K,0.17,0.057,827.0
+BioBank Japan,RA_EUR_Ishigaki2022,Rheumatoid arthritis (seropositive + seronegative; European meta-analysis; Ishigaki2022),ICD10 M,-0.031,0.066,22350.0
+BioBank Japan,ATC_C09,Agents acting on the renin-angiotensin system,ATC C,-0.027,0.074,45820.0
+BioBank Japan,T2D_EUR_Suzuki2024,Type 2 diabetes (European meta-analysis; Suzuki2024),ICD10 E,-0.0072,0.076,242283.0
+BioBank Japan,Chronic_Sinusitis,Chronic sinusitis,ICD10 J,0.069,0.077,4617.0
+BioBank Japan,Neutro,Neutrophil count,Blood cell,-0.015,0.082,
+BioBank Japan,Rheumatic_fever,Rheumatic fever,ICD10 I,0.36,0.094,152.0
+BioBank Japan,AST,Aspartate transaminase,Liver-related,-0.01,0.1,
+BioBank Japan,ALT,Alanine aminotransferase,Liver-related,-0.01,0.1,
+BioBank Japan,Zoster,Zoster infection,ICD10 B,-0.089,0.11,2209.0
+BioBank Japan,RA_TransEthnic_Okada2014,Rheumatoid arthritis (Trans-ethnic meta-analysis; Okada2014),ICD10 M,-0.031,0.11,19234.0
+BioBank Japan,RA_seropositive_EAS_Ishigaki2022,Rheumatoid arthritis (seropositive; East Asian meta-analysis; Ishigaki2022),ICD10 M,-0.062,0.12,8340.0
+BioBank Japan,Chronic_Glomerulonephritis,Chronic glomerulonephritis,ICD10 N,-0.28,0.12,210.0
+BioBank Japan,Tonsillitis,Tonsillitis,ICD10 J,-0.2,0.12,420.0
+BioBank Japan,Chronic_bronchitis,Chronic bronchitis,ICD10 J,-0.24,0.12,271.0
+BioBank Japan,RA_seropositive_MultiAncestry_Ishigaki2022,Rheumatoid arthritis (seropositive; multi-ancestry meta-analysis; Ishigaki2022),ICD10 M,-0.026,0.13,27448.0
+BioBank Japan,GGT,γ-glutamyl transpeptidase,Liver-related,-0.0095,0.13,
+BioBank Japan,Cystitis,Cystitis,ICD10 N,-0.099,0.13,1665.0
+BioBank Japan,PM,Polymyositis,ICD10 M,0.51,0.13,58.0
+BioBank Japan,Metal_allergy,Metal allergy,ICD10 L,0.23,0.14,278.0
+BioBank Japan,Pyelonephritis,Pyelonephritis,ICD10 N,-0.092,0.14,1811.0
+BioBank Japan,Pericarditis,Pericarditis,ICD10 I,-0.4,0.14,89.0
+BioBank Japan,Autoimmune_BBJ_UKB_Shirai2022,Autoimmune multi-trait (BBJ & UKB),"ICD10 E, M",-0.025,0.14,11582.0
+BioBank Japan,Neuropathic_Bladder,Neuropathic bladder,ICD10 N,-0.21,0.15,308.0
+BioBank Japan,BrC_PrC_Meta_Sato2023,"Breast and prostate cancer (BBJ, UKB, FG, BCAC, PRACTICAL)",ICD10 C,-0.0065,0.15,267056.0
+BioBank Japan,Food_Allergy,Food allergy,ICD10 Z,-0.061,0.16,3777.0
+BioBank Japan,Acute_Renal_Failure,Acute renal failure,ICD10 N,0.17,0.16,465.0
+BioBank Japan,Dysentery,Dysentery,ICD10 A,-0.18,0.16,411.0
+BioBank Japan,Cardiac_Valvular_Disease,Cardiac valvular disease,ICD10 I,0.083,0.16,1995.0
+BioBank Japan,SAP,Stable angina pectoris,ICD10 I,0.029,0.17,18833.0
+BioBank Japan,Allergy_BBJ_Shirai2022,Allergy multi-trait (BBJ),"ICD10 J, L",0.033,0.17,14733.0
+BioBank Japan,ATC_R06A,Antihistamines for systemic use,ATC R,0.036,0.18,10163.0
+BioBank Japan,Nontuberculous_Mycobacterial_Infection,Nontuberculous Mycobacterial infection,ICD10 A,-0.44,0.18,64.0
+BioBank Japan,Pneumoconiosis,Pneumoconiosis,ICD10 J,0.38,0.18,85.0
+BioBank Japan,Ca,Calcium,Electrolytes,-0.012,0.18,
+BioBank Japan,MS_EUR_FujimotoOgawa2026,Multiple sclerosis (European meta-analysis; FujimotoOgawa2026),ICD10 G,-0.016,0.18,27572.0
+BioBank Japan,MS_MultiAncestry_FujimotoOgawa2026,Multiple sclerosis (Multi-ancestry meta-analysis; FujimotoOgawa2026),ICD10 G,-0.015,0.18,29374.0
+BioBank Japan,IS,Ischemic stroke,ICD10 I,-0.025,0.19,22664.0
+BioBank Japan,Insomnia,Insomnia,ICD10 F,-0.16,0.19,389.0
+BioBank Japan,DBP,Diastolic blood pressure,Blood pressure,0.0083,0.19,
+BioBank Japan,RA_Asian_Okada2014,Rheumatoid arthritis (Asian meta-analysis; Okada2014),ICD10 M,-0.061,0.19,4873.0
+BioBank Japan,Tatto,Tatto,ICD10 L,0.22,0.21,224.0
+BioBank Japan,Periodontal_Disease,Periodontal disease,ICD10 K,-0.034,0.21,9560.0
+BioBank Japan,ATC_H03A,Thyroid preparations,ATC H,0.059,0.21,3103.0
+BioBank Japan,ATC_C02,Antihypertensives,ATC C,0.043,0.22,5688.0
+BioBank Japan,RA_EAS_Ishigaki2022,Rheumatoid arthritis (seropositive + seronegative; East Asian meta-analysis; Ishigaki2022),ICD10 M,-0.037,0.23,11025.0
+BioBank Japan,Depression,Depression,ICD10 F,0.11,0.23,836.0
+BioBank Japan,Mastopathy,Mastopathy,ICD10 N,0.13,0.23,575.0
+BioBank Japan,Aplastic_Anemia,Aplastic anemia,ICD10 D,-0.42,0.23,53.0
+BioBank Japan,Colon_polyp,Colon polyp,ICD10 K,-0.046,0.23,4768.0
+BioBank Japan,Pleurisy,Pleurisy,ICD10 J,-0.13,0.24,541.0
+BioBank Japan,Contact_dermatitis,Contact dermatitis,ICD10 L,0.19,0.24,247.0
+BioBank Japan,Brain_tumor,Brain tumor,ICD10 C,-0.15,0.24,405.0
+BioBank Japan,Autoimmune_UKB_Shirai2022,Autoimmune multi-trait (UKB),"ICD10 E, M",-0.023,0.24,6562.0
+BioBank Japan,RA_European_Okada2014,Rheumatoid arthritis (European meta-analysis; Okada2014),ICD10 M,-0.025,0.25,14361.0
+BioBank Japan,TG,Triglycerides,Metabolic,0.0082,0.26,
+BioBank Japan,Hb,Hemoglobin,Blood cell,-0.0063,0.26,
+BioBank Japan,Cataract,Cataract,ICD10 H,0.018,0.27,38194.0
+BioBank Japan,Herpes,Herpes infection,ICD10 B,0.1,0.28,772.0
+BioBank Japan,T2D_MultiAncestry_Suzuki2024,Type 2 diabetes (multi-ancestry meta-analysis; Suzuki2024),ICD10 E,-0.0036,0.29,428452.0
+BioBank Japan,Endometriosis,Endometriosis,ICD10 N,0.067,0.29,1786.0
+BioBank Japan,MCV,Mean corpuscular volume,Blood cell,-0.007,0.29,
+BioBank Japan,Smoking_CPD,Smoking (cigarettes per day),Behavioral,0.009,0.29,
+BioBank Japan,Age_at_Menarche,Age at menarche,Reproductive,-0.0083,0.29,
+BioBank Japan,ATC_R03BA,Glucocorticoids,ATC R,-0.024,0.3,13102.0
+BioBank Japan,Goiter,Goiter,ICD10 E,-0.082,0.3,1127.0
+BioBank Japan,EsC,Esophageal cancer,ICD10 C,-0.074,0.3,1388.0
+BioBank Japan,Intracerebral_Hemorrhage,Intracerebral hemorrhage,ICD10 I,-0.069,0.31,1456.0
+BioBank Japan,ATC_L04,Immunosuppressants,ATC L,-0.047,0.31,3483.0
+BioBank Japan,ATC_C03,Diuretics,ATC C,-0.019,0.31,22356.0
+BioBank Japan,IgA_nephritis,IgA nephritis,ICD10 N,-0.32,0.31,71.0
+BioBank Japan,Nephrotic_Syndrome,Nephrotic syndrome,ICD10 N,-0.073,0.32,1314.0
+BioBank Japan,EnC,Endometrial cancer,ICD10 C,0.077,0.32,1200.0
+BioBank Japan,Malignant_Lymphoma,Malignant lymphoma,ICD10 C,0.14,0.33,335.0
+BioBank Japan,NMOSD,Neuromyelitis optica spectrum disorder,ICD10 G,-0.17,0.33,240.0
+BioBank Japan,Glaucoma,Glaucoma,ICD10 H,-0.029,0.33,8448.0
+BioBank Japan,UF,Uterine fibroid,ICD10 D,0.024,0.34,14475.0
+BioBank Japan,IGCT,Intracranial germ cell tumors,ICD10 C,0.25,0.34,133.0
+BioBank Japan,MAP,Mean arterial pressure,Blood pressure,0.0058,0.35,
+BioBank Japan,Plt,Platelet count,Blood cell,0.0057,0.35,
+BioBank Japan,Hypothyroidism,Hypothyroidism,ICD10 E,0.072,0.36,1114.0
+BioBank Japan,Allergy_BBJ_UKB_Shirai2022,Allergy multi-trait (BBJ & UKB),"ICD10 J, L",0.0057,0.36,95795.0
+BioBank Japan,BtC,Cancer of hepatic bile ducts,ICD10 C,-0.12,0.36,418.0
+BioBank Japan,Ing_hernia,Inguinal hernia,ICD10 K,0.059,0.36,1664.0
+BioBank Japan,Autoimmune_BBJ_Shirai2022,Autoimmune multi-trait (BBJ),"ICD10 E, M",-0.035,0.36,5020.0
+BioBank Japan,CAD,Coronary artery disease,ICD10 I,0.016,0.36,32512.0
+BioBank Japan,BUN,Blood urea nitrogen,Kidney-related,-0.0055,0.37,
+BioBank Japan,Uveitis,Uveitis,ICD10 H,-0.21,0.37,125.0
+BioBank Japan,T2D_EAS_Suzuki2024,Type 2 diabetes (East Asian meta-analysis; Suzuki2024),ICD10 E,0.011,0.37,88109.0
+BioBank Japan,MG,Myasthenia gravis,ICD10 G,-0.26,0.37,81.0
+BioBank Japan,Chronic_Renal_Failure,Chronic renal failure,ICD10 N,-0.05,0.37,2117.0
+BioBank Japan,RA_seropositive_EUR_Ishigaki2022,Rheumatoid arthritis (seropositive; European meta-analysis; Ishigaki2022),ICD10 M,-0.017,0.38,17221.0
+BioBank Japan,eHHV6B,eHHV-6B positivity,Other,-0.67,0.38,22.0
+BioBank Japan,ThC,Thyroid cancer,ICD10 C,0.12,0.38,361.0
+BioBank Japan,MCH,Mean corpuscular hemoglobin,Blood cell,-0.0057,0.39,
+BioBank Japan,HepC,Hepatic cancer,ICD10 C,0.049,0.39,2122.0
+BioBank Japan,ATC_C01D,Vasodilators used in cardiac diseases,ATC C,-0.019,0.39,17050.0
+BioBank Japan,ATC_N02BA,Salicylic acid and derivatives,ATC N,0.013,0.39,41461.0
+BioBank Japan,Myocarditis,Myocarditis,ICD10 I,0.22,0.39,102.0
+BioBank Japan,Dilated_Cardiomyopathy,Dilated cardiomyopathy,ICD10 I,-0.11,0.39,417.0
+BioBank Japan,Ped_asthma,Pediatric asthma,ICD10 J,0.097,0.39,547.0
+BioBank Japan,Pneumonia,Pneumonia,ICD10 J,0.026,0.4,7423.0
+BioBank Japan,HDLC,HDL-cholesterol,Metabolic,-0.0072,0.4,
+BioBank Japan,Hypertrophic_Cardiomyopathy,Hypertrophic cardiomyopathy,ICD10 I,-0.11,0.4,383.0
+BioBank Japan,ATC_N02C,Antimigraine preparations,ATC N,0.11,0.41,387.0
+BioBank Japan,T2D_AFA_Suzuki2024,Type 2 diabetes (African American meta-analysis; Suzuki2024),ICD10 E,0.0083,0.41,50251.0
+BioBank Japan,T2D,Type 2 diabetes,ICD10 E,0.014,0.41,45383.0
+BioBank Japan,Ventricular_Arrhythmia,Ventricular arrhythmia,ICD10 I,-0.051,0.42,1673.0
+BioBank Japan,Back_pain,Back pain,ICD10 M,0.05,0.42,1732.0
+BioBank Japan,CHC,Chronic hepatitis C,ICD10 B,0.025,0.43,7110.0
+BioBank Japan,ATC_M05B,Drugs affecting bone structure and mineralization,ATC M,0.027,0.43,6143.0
+BioBank Japan,RPL,Recurrent pregnancy loss,ICD10 N,0.055,0.43,1728.0
+BioBank Japan,Osteoporosis,Osteoporosis,ICD10 M,-0.023,0.44,9794.0
+BioBank Japan,ATC_M01A,"Anti-inflammatory and antirheumatic products, non-steroids",ATC M,0.013,0.44,29694.0
+BioBank Japan,PP,Pulse pressure,Blood pressure,-0.0048,0.44,
+BioBank Japan,UA,Uric acids,Kidney-related,-0.0048,0.45,
+BioBank Japan,Urticaria,Urticaria,ICD10 L,-0.021,0.45,9893.0
+BioBank Japan,AIH,Autoimmune hepatitis,ICD10 K,-0.22,0.45,85.0
+BioBank Japan,Varicose,Varicose,ICD10 I,-0.089,0.46,474.0
+BioBank Japan,UC,Ulcerative colitis,ICD10 K,-0.11,0.46,314.0
+BioBank Japan,Ht,Hematocrit,Blood cell,-0.0042,0.46,
+BioBank Japan,FacialN_palsy,Facial nerve palsy (Bell's palsy),ICD10 G,0.1,0.46,343.0
+BioBank Japan,CRC,Colorectal cancer,ICD10 C,-0.022,0.46,8305.0
+BioBank Japan,CeAn,Cerebral aneurysm,ICD10 I,0.034,0.47,3132.0
+BioBank Japan,Pneumothorax,Pneumothorax,ICD10 J,0.072,0.47,692.0
+BioBank Japan,ATC_C07,Beta blocking agents,ATC C,0.014,0.47,20367.0
+BioBank Japan,WBC,White blood cell count,Blood cell,0.0044,0.48,
+BioBank Japan,Typhoid,Typhoid fever,ICD10 A,-0.11,0.48,257.0
+BioBank Japan,Pharyngeal_Laryngeal_Cancer,Pharyngeal and laryngeal cancer,ICD10 C,-0.11,0.48,300.0
+BioBank Japan,HIC,Hunner-type interstitial cystitis,ICD10 N,0.16,0.48,144.0
+BioBank Japan,Autoimmune_Allergy_BBJ_Shirai2022,Autoimmune & Allergy multi-trait (BBJ),"ICD10 E, J, L, M",0.014,0.49,19609.0
+BioBank Japan,AllC_BBJ_Sato2023,All-cancer meta-analysis (BBJ),ICD10 C,-0.012,0.49,29753.0
+BioBank Japan,Atrial_Flutter,Atrial flutter/fibrillation,ICD10 I,-0.029,0.49,4150.0
+BioBank Japan,Ovarian_Cyst,Ovarian cyst,ICD10 N,0.034,0.5,2896.0
+BioBank Japan,TP,Total protein,Protein,-0.0045,0.51,
+BioBank Japan,T2D_HIS_Suzuki2024,Type 2 diabetes (Hispanic meta-analysis; Suzuki2024),ICD10 E,-0.01,0.51,29375.0
+BioBank Japan,ATC_A10,Drugs used in diabetes,ATC A,0.012,0.51,30515.0
+BioBank Japan,Keloid,Keloid,ICD10 L,0.053,0.52,1055.0
+BioBank Japan,PrC_Meta_Sato2023,"Prostate cancer (BBJ, UKB, FinnGen, PRACTICAL)",ICD10 C,0.0047,0.53,103222.0
+BioBank Japan,Abortion,Abortion,ICD10 O,-0.14,0.53,136.0
+BioBank Japan,Spinal_canal_stenosis,Spinal canal stenosis,ICD10 M,0.062,0.54,661.0
+BioBank Japan,P,Phosphate,Electrolytes,-0.007,0.54,
+BioBank Japan,PsV,Psoriasis vulgaris,ICD10 L,0.11,0.55,206.0
+BioBank Japan,ATC_C08,Calcium channel blockers,ATC C,-0.0089,0.55,49327.0
+BioBank Japan,GB_polyp,Gall bladder polyp,ICD10 K,-0.053,0.56,843.0
+BioBank Japan,Allergy_UKB_Shirai2022,Allergy multi-trait (UKB),"ICD10 J, L",0.0038,0.56,81062.0
+BioBank Japan,Mono,Monocyte count,Blood cell,0.0047,0.56,
+BioBank Japan,DM_Nephropathy,Diabetic nephropathy,ICD10 E,0.1,0.56,220.0
+BioBank Japan,MG_Ueda2026,Myasthenia gravis,ICD10 G,0.042,0.56,1434.0
+BioBank Japan,Sjogren_Syndrome,Sjogren's syndrome,ICD10 M,-0.087,0.56,303.0
+BioBank Japan,Iron_Deficiency_Anemia,Iron deficiency anemia,ICD10 D,0.022,0.57,4618.0
+BioBank Japan,Cholelithiasis,Cholelithiasis,ICD10 K,0.016,0.58,9305.0
+BioBank Japan,Chronic_Pancreatitis,Chronic pancreatitis,ICD10 K,-0.065,0.59,457.0
+BioBank Japan,Ringworm,Ringworm,ICD10 B,-0.051,0.6,692.0
+BioBank Japan,Malignant_Tumor,Malignant tumor,ICD10 C,-0.0084,0.6,39564.0
+BioBank Japan,PaC,Pancreatic cancer,ICD10 C,-0.062,0.6,499.0
+BioBank Japan,TEN_SJS,Toxic epidermal necrolysis/Stevens-Johnson syndrome,ICD10 E,0.14,0.61,93.0
+BioBank Japan,ATC_S01E,Antiglaucoma preparations and miotics,ATC S,0.018,0.61,5911.0
+BioBank Japan,Age_at_Menopause,Age at menopause,Reproductive,-0.0056,0.61,
+BioBank Japan,Gastric_Ulcer,Gastric ulcer,ICD10 K,0.012,0.61,12650.0
+BioBank Japan,Pollinosis,Pollinosis,ICD10 J,0.011,0.63,18593.0
+BioBank Japan,CeC,Cervical cancer,ICD10 C,-0.041,0.63,967.0
+BioBank Japan,ATC_C10AA,HMG CoA reductase inhibitors,ATC C,-0.0081,0.63,33295.0
+BioBank Japan,Autoimmune_Allergy_BBJ_UKB_Shirai2022,Autoimmune & Allergy multi-trait (BBJ & UKB),"ICD10 E, J, L, M",0.0029,0.63,105721.0
+BioBank Japan,sCr,Serum creatinine,Kidney-related,-0.0025,0.63,
+BioBank Japan,Esophageal_varix,Esophageal varix,ICD10 I,0.075,0.64,264.0
+BioBank Japan,Pulmonary_Fibrosis,Pulmonary Fibrosis,ICD10 J,-0.11,0.64,126.0
+BioBank Japan,MS_JPN_FujimotoOgawa2026,Multiple sclerosis (Japanese meta-analysis; FujimotoOgawa2026),ICD10 G,-0.046,0.66,688.0
+BioBank Japan,BMI,Body mass index,Anthropometric,-0.0025,0.67,
+BioBank Japan,Substance_Dependence,Substance dependence,ICD10 F,0.097,0.69,118.0
+BioBank Japan,Chronic_gastritis,Chronic gastritis,ICD10 K,0.038,0.69,744.0
+BioBank Japan,Smoking_Ever_Never,Smoking (ever vs never),Behavioral,-0.006,0.7,88277.0
+BioBank Japan,Parkinsons_Disease,Parkinson's disease,ICD10 G,-0.054,0.7,340.0
+BioBank Japan,BrC,Breast cancer,ICD10 C,-0.013,0.71,6325.0
+BioBank Japan,Behcet_disease,Behçet's disease,ICD10 M,-0.11,0.71,78.0
+BioBank Japan,Schizophrenia,Schizophrenia,ICD10 F,-0.1,0.71,99.0
+BioBank Japan,SBP,Systolic blood pressure,Blood pressure,0.0022,0.72,
+BioBank Japan,Allergic_Rhinitis,Allergic rhinitis,ICD10 J,-0.011,0.72,7897.0
+BioBank Japan,Diphtheria,Diphtheria infection,ICD10 A,0.04,0.72,541.0
+BioBank Japan,Hyperthyroidism,Hyperthyroidism,ICD10 E,0.028,0.73,994.0
+BioBank Japan,Alb,Albumin,Protein,-0.0024,0.73,
+BioBank Japan,PreEclampsia,Pre-eclampsia,ICD10 O,0.082,0.73,123.0
+BioBank Japan,LDLC,LDL-cholesterol,Metabolic,-0.0031,0.73,
+BioBank Japan,CHB,Chronic hepatitis B,ICD10 B,-0.019,0.74,2234.0
+BioBank Japan,Idiopathic_Thrombocytopenic_Purpura,Idiopathic thrombocytopenic purpura,ICD10 D,-0.067,0.74,168.0
+BioBank Japan,Retinal_Detachment,Retinal detachment,ICD10 H,-0.023,0.75,1389.0
+BioBank Japan,Hashimoto_Disease,Hashimoto's disease,ICD10 E,0.037,0.75,537.0
+BioBank Japan,RBC,Red blood cell count,Blood cell,0.0017,0.76,
+BioBank Japan,Bronchitis,Bronchitis,ICD10 J,-0.021,0.76,1465.0
+BioBank Japan,ATC_R03A,"Adrenergics, inhalants",ATC R,0.011,0.76,5880.0
+BioBank Japan,Retinitis_Pigmentosa,Retinitis pigmentosa,ICD10 H,0.063,0.76,155.0
+BioBank Japan,MI,Myocardial infarction,ICD10 I,-0.0072,0.77,14992.0
+BioBank Japan,NAP,Non-albumin protein,Protein,-0.0021,0.77,
+BioBank Japan,Autoimmune_Allergy_UKB_Shirai2022,Autoimmune & Allergy multi-trait (UKB),"ICD10 E, J, L, M",0.0019,0.77,86112.0
+BioBank Japan,GD,Grave's disease,ICD10 E,-0.015,0.77,2809.0
+BioBank Japan,ALP,Alkaline phosphatase,Liver-related,0.002,0.78,
+BioBank Japan,Uterine_prolapse,Uterine prolapse,ICD10 N,-0.034,0.79,423.0
+BioBank Japan,Cholecystitis,Cholecystitis,ICD10 K,-0.016,0.79,1860.0
+BioBank Japan,Gastric_polyp,Gastric polyp,ICD10 K,0.019,0.79,1337.0
+BioBank Japan,Angina,Angina pectoris,ICD10 I,0.006,0.8,14007.0
+BioBank Japan,COVID19,COVID19,ICD10 U,0.018,0.8,2393.0
+BioBank Japan,CSOM,Chronic suppurative otitis media,ICD10 H,0.014,0.8,2206.0
+BioBank Japan,Asthma,Asthma,ICD10 J,0.0064,0.8,13015.0
+BioBank Japan,SkC,Skin cancer,ICD10 C,-0.051,0.81,154.0
+BioBank Japan,AllC_BBJ_UKB_Sato2023,All-cancer meta-analysis (BBJ & UKB),ICD10 C,-0.0018,0.81,72851.0
+BioBank Japan,SAS,Sleep apnea syndrome,ICD10 G,0.029,0.81,473.0
+BioBank Japan,ATC_B01A,Antithrombotic agents,ATC B,-0.0033,0.82,54220.0
+BioBank Japan,BW,Body weight,Anthropometric,-0.0011,0.82,
+BioBank Japan,Febrile_Seizure,Febrile seizure,ICD10 R,-0.023,0.83,574.0
+BioBank Japan,Iritis,Iritis,ICD10 H,-0.053,0.83,110.0
+BioBank Japan,COVID19_LT65,COVID19 aged less than 65,ICD10 U,0.019,0.83,1484.0
+BioBank Japan,ATC_N06A,Antidepressants,ATC N,0.0097,0.83,3288.0
+BioBank Japan,PTB,Pulmonary tuberculosis,ICD10 A,-0.0062,0.84,7800.0
+BioBank Japan,CRP,C-reactive protein,Inflammatory,-0.0017,0.84,
+BioBank Japan,ILD,Interstitial lung disease,ICD10 J,0.015,0.85,1046.0
+BioBank Japan,Cirrhosis,Cirrhosis,ICD10 K,0.0096,0.85,2551.0
+BioBank Japan,SevereCOVID19_LT65,Severe COVID19 aged less than 65,ICD10 U,0.026,0.86,440.0
+BioBank Japan,eGFR,Estimated glomerular filtration rate (serum creatinine),Kidney-related,0.00063,0.87,
+BioBank Japan,Hearing_Loss,"Hearing loss, difficulty in hearing",ICD10 H,0.0076,0.87,3400.0
+BioBank Japan,GERD,Gastroesophageal reflux disease,ICD10 K,-0.014,0.87,948.0
+BioBank Japan,AG,Albumin/Globulin ratio,Protein,-0.0012,0.87,
+BioBank Japan,Carpal_Tunnel_Syndrome,Carpal tunnel syndrome,ICD10 G,0.028,0.88,192.0
+BioBank Japan,OvC,Ovarian cancer,ICD10 C,-0.014,0.88,843.0
+BioBank Japan,Ect_preg,Ectopic pregnancy,ICD10 O,-0.015,0.89,605.0
+BioBank Japan,Ileus,Ileus,ICD10 K,-0.0082,0.89,1771.0
+BioBank Japan,Glucose,Glucose,Metabolic,-0.00087,0.89,
+BioBank Japan,RA,Rheumatoid arthritis,ICD10 M,0.005,0.89,5348.0
+BioBank Japan,T1D,Type 1 diabetes,ICD10 E,-0.009,0.9,1219.0
+BioBank Japan,Urolithiasis,Urolithiasis,ICD10 N,0.0033,0.9,11699.0
+BioBank Japan,LuC,Lung cancer,ICD10 C,0.0046,0.91,4444.0
+BioBank Japan,Constipation,Constipation,ICD10 K,-0.016,0.91,397.0
+BioBank Japan,AID,Autoimmune disease,ICD10 M,-0.0039,0.91,6326.0
+BioBank Japan,Cardiomegaly,Cardiomegaly,ICD10 I,-0.011,0.91,743.0
+BioBank Japan,SLE,Systemic lupus erythematous,ICD10 M,-0.016,0.91,317.0
+BioBank Japan,AA,Aortic aneurysm,ICD10 I,0.0082,0.92,1155.0
+BioBank Japan,Acute_Glomerulonephritis,Acute glomerulonephritis,ICD10 N,-0.013,0.92,443.0
+BioBank Japan,HAV_hepatitis,Acute hepatitis by Hepatitis A virus,ICD10 B,0.017,0.92,261.0
+BioBank Japan,GaC,Gastric cancer,ICD10 C,-0.0031,0.92,7921.0
+BioBank Japan,PAP,Pulmonary alveolar proteinosis,ICD10 J,0.025,0.92,198.0
+BioBank Japan,COPD,Chronic obstructive pulmonary disease,ICD10 J,-0.0029,0.94,4017.0
+BioBank Japan,SevereCOVID19,Severe COVID19,ICD10 U,0.0077,0.94,990.0
+BioBank Japan,AD,Atopic dermatitis,ICD10 L,-0.0034,0.94,4296.0
+BioBank Japan,AllC_UKB_Sato2023,All-cancer meta-analysis (UKB),ICD10 C,0.00052,0.95,43098.0
+BioBank Japan,Nasal_polyp,Nasal polyp,ICD10 J,0.014,0.95,160.0
+BioBank Japan,MS_AFR_FujimotoOgawa2026,Multiple sclerosis (African meta-analysis; FujimotoOgawa2026),ICD10 G,0.0033,0.95,819.0
+BioBank Japan,Meniere,Meniere's disease,ICD10 H,0.0044,0.95,1290.0
+BioBank Japan,CeAn_Unruptured,Unruptured cerebral aneurysm,ICD10 I,-0.013,0.96,91.0
+BioBank Japan,JRA,Juvenile rheumatoid arthritis,ICD10 M,-0.012,0.96,110.0
+BioBank Japan,UAP,Unstable angina pectoris,ICD10 I,0.0017,0.96,5891.0
+BioBank Japan,T2D_SAS_Suzuki2024,Type 2 diabetes (South Asian meta-analysis; Suzuki2024),ICD10 E,-0.001,0.96,16832.0
+BioBank Japan,C_sec,Cesarian section,ICD10 O,-0.0059,0.96,451.0
+BioBank Japan,Allergic_Conjunctivitis,Allergic conjunctivitis,ICD10 H,-0.0023,0.96,3900.0
+BioBank Japan,Bronchiectasis,Bronchiectasis,ICD10 J,0.0078,0.96,241.0
+BioBank Japan,MCHC,Mean corpuscular hemoglobin concentration,Blood cell,-0.00021,0.97,
+BioBank Japan,Achilles_tendon_rupture,Achilles tendon rupture,ICD10 S,0.0051,0.97,312.0
+BioBank Japan,ATC_A02B,Drugs for peptic ulcer and gastro-esophageal reflux disease,ATC A,-0.00038,0.98,53363.0
+BioBank Japan,Compression_Fracture,Compression_ fracture,ICD10 S,0.0011,0.98,2856.0
+BioBank Japan,Height,Height,Anthropometric,4.6e-05,0.99,
+BioBank Japan,Sarcoidosis,Sarcoidosis,ICD10 D,0.0022,0.99,220.0
+BioBank Japan,CHF,Chronic heart failure,ICD10 I,-7.8e-06,1.0,10540.0

@@ -1,0 +1,10 @@
+,0
+rows_with_DNA,2011
+dropped_flagged,4
+out_of_range_set_missing,14
+n,2007
+female,1232
+male,775
+tv_lumbarisation,78
+tv_sacralisation,81
+age_mean_sd_range,"(np.float64(50.0), np.float64(9.5), np.float64(16.7), np.float64(86.3))"
