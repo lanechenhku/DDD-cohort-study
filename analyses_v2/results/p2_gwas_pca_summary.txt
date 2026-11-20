@@ -1,0 +1,4 @@
+SNPs used: 50,482 of 51,261 thinned SNPs (>=50 kb apart; MAF>=0.05; missing<=2%; long-range LD regions removed)
+Samples: 2,121
+Variance explained PC1-10 (%): 0.16, 0.10, 0.09, 0.09, 0.09, 0.09, 0.09, 0.08, 0.08, 0.08
+Samples beyond 6 SD on PC1-4: 0

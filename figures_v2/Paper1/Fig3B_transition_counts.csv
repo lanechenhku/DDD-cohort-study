@@ -1,0 +1,8 @@
+a,Normal,Core only,Core + HIZ,Core + MC,Core + DH,Core + two,All four
+Normal,237,241,14,5,3,2,0
+Core only,21,770,224,148,16,56,4
+Core + HIZ,0,161,218,39,6,38,2
+Core + MC,0,23,3,116,1,23,1
+Core + DH,0,27,11,14,3,10,1
+Core + two,1,4,8,26,0,20,3
+All four,0,1,0,2,0,0,1

@@ -1,0 +1,11 @@
+PS done
+PDB done
+ADB done
+HIZ done
+OMC done
+AMC done
+SN done
+Warning messages:
+1: In sqrt(df_scaled/trace_ugamma2) : NaNs produced
+2: lavaan->lav_object_post_check():  
+   some estimated ov variances are negative 
