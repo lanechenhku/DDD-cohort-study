@@ -1,0 +1,62 @@
+# ---- Participant-level HK Spine Cohort data: never commit ----
+data_clean/
+analyses_v2/data/
+**/data/clean_*/
+p1_long.csv
+p1_person.csv
+p1_imputed_onset_ages.csv
+p1_sise_imputed_*.csv
+p1_sise_intervals.csv
+p1_sise_*.rds
+ws_long.csv
+ws_wide.csv
+ws_regional_scores.csv
+*genotype*.csv
+itga9_locus_genotypes.csv
+allpheno*.xlsx
+*.xlsx
+*.xls
+*.sav
+*.dta
+GWAS_phenotype*.txt
+summary.*.csv
+# genotype / imaging formats
+*.bed
+*.bim
+*.fam
+*.bgen
+*.bgi
+*.pgen
+*.pvar
+*.psam
+*.vcf
+*.vcf.gz
+*.dcm
+*.nii
+*.nii.gz
+# sync archives may bundle participant-level files
+*.tgz
+*.tar
+*.tar.gz
+*.zip
+
+# ---- Large or superseded figure files ----
+*.tiff
+*.tif
+**/FigS7_MRI_feature_examples.*
+**/_superseded_*/
+_work/
+
+# ---- Public data re-creatable from scripts ----
+p2_ITGA9_NP_Tu2022_cells.csv.gz
+*.h5ad
+
+# ---- Python / R / OS ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+~$*
